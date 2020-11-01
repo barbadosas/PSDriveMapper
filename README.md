@@ -1,2 +1,2 @@
 # PSDriveMapper
-This script will map selected computers c$ to random available drive letter with GUI.
+This script will map selected computer c$ to random available drive letter with GUI.
